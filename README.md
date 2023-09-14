@@ -1,6 +1,6 @@
 # STM32F103x6 Startup Code
 
-![STM32 Logo](https://www.disk91.com/wp-content/uploads/2018/09/12180191.png)
+<img src="https://www.disk91.com/wp-content/uploads/2018/09/12180191.png" alt="STM32 Logo" width="100" height="100">
 
 This repository contains the startup code for the STM32F103x6 microcontroller.
 
