@@ -12,8 +12,7 @@ This repository contains the startup code for the STM32F103x6 microcontroller.
 
 
 ## Overview
-
-Provide a brief overview of your startup code. Mention the microcontroller model (STM32F103x6) and its purpose. Explain what makes your startup code unique or useful.
+A startup code for the STM32F103x6 microcontroller implementation of Vector table with its addresses as mentioned @CortexM3 guide and reset handler function, also linker script file for implementation of ROM (Flash) and RAM (Memory) with addresses as a data sheet of STM32f103x6
 
 ## Getting Started
 
